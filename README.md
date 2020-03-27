@@ -26,11 +26,13 @@ Live data entered as of 2020-03-15, backfilled using JHU to 2020-03-06 and Wayba
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
 
-Website came down over the weekend after 2020-03-20.  Number of cases for 2020-03-21 probably correct but can't be confirmed, no WaybackMachine snapshot available and website still lists cases as of 2020-03-20.
+Website unavailable in MA from 2020-03-22 to 2020-03-23.  Number of cases on 2020-03-23 based on other data reporting websites, in theory pulling from the same source.
 
 #### Solano County  
 http://www.solanocounty.com/depts/ph/ncov.asp  
 Live data entered as of 2020-03-19, backfilled using press releases and WaybackMachine archive snapshots.  (No JHU data available for this county.)
+
+Data for 2020-03-26 not available, PDF with data corrupted.
 
 ### Massachusetts
 
@@ -45,7 +47,7 @@ https://www.arlingtonma.gov/departments/health-human-services/health-department/
 Past updates: https://www.arlingtonma.gov/departments/health-human-services/health-department/past-coronavirus-updates  
 Live data entered as of 2020-03-15, backfilled using past updates from website.  
 
-As of 2020-03-20, no longer providing case numbers.
+No case numbers provided from 2020-03-21 through 2020-03-25.
 
 #### Belmont, MA  
 https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here  
