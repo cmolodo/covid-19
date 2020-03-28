@@ -3,7 +3,7 @@ This repository contains raw Covid-19 case data for some California counties, pl
 
 Note that currently all data is entered by manual transcription rather than automatic scraping in part due to the lack of consistent data display.
 
-Any empty cells represent dates for which data was not available, either because the website was not updated (for example, some sites only reported M/W/F) or because the WaybackMachine didn't contain a snapshot for the relevant dates.
+Any empty cells represent dates for which data was not available, either because the website was not updated (for example, some sites only reported M/W/F) or because the WaybackMachine didn't contain a snapshot for the relevant dates.  When total case/death numbers don't change betwen one available time point and the next, values are automatically filled in between.
 
 ## Data sources:  
 
