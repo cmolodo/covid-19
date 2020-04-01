@@ -20,7 +20,11 @@ Live data entered as of 2020-03-15, backfilled using press releases and WaybackM
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
-Live data entered as of 2020-03-15, backfilled using JHU to 2020-03-06 and WaybackMachine archive snapshots from 2020-03-06 to 2020-03-14.  Note that until 2020-03-15, values were only updatd Mon/Wed/Fri
+Live data entered as of 2020-03-15, backfilled using JHU to 2020-03-06 and WaybackMachine archive snapshots from 2020-03-06 to 2020-03-14.  Note that until 2020-03-15, values were only updatd Mon/Wed/Fri.
+
+Orange County public health began publishing a full timeseries graph of case numbers with updated values, as of 2020-03-27.  Case numbers are amended to match updated data as it changes.
+
+Disclaimer on website: "Data posted each day are always preliminary and subject to change. More information may become available as individual case investigations are completed."
 
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
