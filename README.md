@@ -46,6 +46,8 @@ Website provides county breakdown for cases in a PDF available from this site.  
 
 Live data entered as of 2020-03-15, backfilled using JHU data and WaybackMachine archive snapshots.
 
+Until 2020-04-02, Dukes and Nantucket county cases were combined into a single figure.  As of 2020-04-02, they were split.  Separate numbers for each county were backfilled based on information from Martha's Vineyard and Nantucket hospital patient reports.  However, it appears that the state figures lag behind the local figures, as the combined reported cases are higher than the totals reported by the state.  Per-county numbers have been trimmed to match the state totals.
+
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
 Past updates: https://www.arlingtonma.gov/departments/health-human-services/health-department/past-coronavirus-updates  
