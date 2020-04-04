@@ -8,6 +8,10 @@ Any empty cells represent dates for which data was not available, either because
 ## Data sources:  
 
 ### California
+#### State numbers
+https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx  
+https://www.cdph.ca.gov/Programs/OPA/Pages/New-Release-2020.aspx  
+Live data entered as of 2020-04-01, backfilled using press releases.
 
 #### Contra Costa County
 https://www.coronavirus.cchealth.org/  
