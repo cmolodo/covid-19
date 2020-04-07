@@ -52,6 +52,15 @@ Live data entered as of 2020-03-15, backfilled using JHU data and WaybackMachine
 
 Until 2020-04-02, Dukes and Nantucket county cases were combined into a single figure.  As of 2020-04-02, they were split.  Separate numbers for each county were backfilled based on information from Martha's Vineyard and Nantucket hospital patient reports.  However, it appears that the state figures lag behind the local figures, as the combined reported cases are higher than the totals reported by the state.  Per-county numbers have been trimmed to match the state totals.
 
+Unfortunately, deaths for Dukes and Nantucket are still reported combined.  Deaths are attributed based on couty websites, but may change as later data is collected, however.  
+Martha's Vineyard (Dukes county): https://marthas-vineyard.com/coronavirus  
+Martha's Vineyard hospital: https://www.mvhospital.com/health-resources/resources-and-information-on-coronavirus-covid-19  
+Nantucket county: https://www.nantucket-ma.gov/1711/Covid-19-Day-to-Day-Timeline  
+Nantucket hospital: http://nantuckethospital.org/home/coronavirus-news-and-information/nantucket-coronavirus-testing-updates/
+
+Deaths affected:
+* 2020-04-06 (attributed to Dukes)
+
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
 Past updates: https://www.arlingtonma.gov/departments/health-human-services/health-department/past-coronavirus-updates  
