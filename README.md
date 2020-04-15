@@ -34,7 +34,7 @@ Disclaimer on website: "Data posted each day are always preliminary and subject 
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
 
-Website unavailable in MA from 2020-03-22 to 2020-03-23.  Number of cases on 2020-03-23 based on other data reporting websites, in theory pulling from the same source.
+Placer county case numbers backfilled on 2020-04-14 based on historical data now available from the Placer public health dashboard.
 
 #### Solano County  
 http://www.solanocounty.com/depts/ph/ncov.asp  
@@ -49,6 +49,8 @@ https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring
 Website provides county breakdown for cases in a PDF available from this site.  Death attributions to county are based on press release when available.  
 
 Live data entered as of 2020-03-15, backfilled using JHU data and WaybackMachine archive snapshots.
+
+Massachusetts stopped reported hospitalization numbers on 2020-04-14.
 
 Until 2020-04-02, Dukes and Nantucket county cases were combined into a single figure.  As of 2020-04-02, they were split.  Separate numbers for each county were backfilled based on information from Martha's Vineyard and Nantucket hospital patient reports.  However, it appears that the state figures lag behind the local figures, as the combined reported cases are higher than the totals reported by the state.  Per-county numbers have been trimmed to match the state totals.
 
