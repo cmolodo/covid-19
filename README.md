@@ -17,6 +17,8 @@ Live data entered as of 2020-04-01, backfilled using press releases.
 https://www.coronavirus.cchealth.org/  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  
 
+Case numbers corrected based on public health dashboard as of 2020-04-16, previously off by one day (daily numbers reported were actually from the previous day, mistakenly entered as being for the date reported).
+
 #### Los Angeles County  
 http://publichealth.lacounty.gov/media/Coronavirus/  
 Testing numbers: http://publichealth.lacounty.gov/acd/docs/COVID19SurveillanceDataLAC.pdf  
