@@ -74,6 +74,8 @@ Live data entered as of 2020-03-15, backfilled using past updates from website.
 
 No case numbers provided from 2020-03-21 through 2020-03-25.
 
+Arlington started making past case numbers available on town health website as of 2020-04-16, updated data to match provided numbers.
+
 #### Belmont, MA  
 https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here  
 Live data entered as of 2020-03-19, backfilled using prior notices and WaybackMachine archive snapshots.
