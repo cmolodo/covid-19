@@ -56,6 +56,8 @@ Massachusetts reported no hospitalization numbers on 2020-04-14, switched to per
 
 Massachusetts started providing per-city cases on 2020-04-15, with previous day's numbers.
 
+Massachusetts switched from reporting daily deaths to cumulative deaths on 2020-04-20.  As a result, there's a big jump in cumulative deaths for many of the counties on 2020-04-20, as the previously "unknown" deaths are correctly assigned to their counties.
+
 Until 2020-04-02, Dukes and Nantucket county cases were combined into a single figure.  As of 2020-04-02, they were split.  Separate numbers for each county were backfilled based on information from Martha's Vineyard and Nantucket hospital patient reports.  However, it appears that the state figures lag behind the local figures, as the combined reported cases are higher than the totals reported by the state.  Per-county numbers have been trimmed to match the state totals.
 
 Unfortunately, deaths for Dukes and Nantucket are still reported combined.  Deaths are attributed based on couty websites, but may change as later data is collected, however.  
