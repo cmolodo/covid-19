@@ -24,6 +24,8 @@ http://publichealth.lacounty.gov/media/Coronavirus/
 Testing numbers: http://publichealth.lacounty.gov/acd/docs/COVID19SurveillanceDataLAC.pdf  
 Live data entered as of 2020-03-15, backfilled using press releases and WaybackMachine archive snapshots.
 
+Because Los Angeles switched on 2020-04-24 from reporting numbers as of 12 PM that day to reporting numbers as of 8 PM the previous day, cases and deaths were adjusted accordingly.  Tracing back through archived snapshots, it appears that the switch happened on 2020-03-11, so cumulative numbers from that day have been removed (27 cases, 1 death) and all other numbers have been moved back 1 day.
+
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
 Live data entered as of 2020-03-15, backfilled using JHU to 2020-03-06 and WaybackMachine archive snapshots from 2020-03-06 to 2020-03-14.  Note that until 2020-03-15, values were only updatd Mon/Wed/Fri.
@@ -54,9 +56,7 @@ Live data entered as of 2020-03-15, backfilled using JHU data and WaybackMachine
 
 Massachusetts reported no hospitalization numbers on 2020-04-14, switched to per hospital census in a separate report on 2020-04-15.
 
-Massachusetts started providing per-city cases on 2020-04-15, with previous day's numbers.
-
-Massachusetts switched from reporting daily deaths to cumulative deaths on 2020-04-20.  As a result, there's a big jump in cumulative deaths for many of the counties on 2020-04-20, as the previously "unknown" deaths are correctly assigned to their counties.
+Massachusetts started providing weekly per-city cases on 2020-04-15, with previous day's numbers.
 
 Until 2020-04-02, Dukes and Nantucket county cases were combined into a single figure.  As of 2020-04-02, they were split.  Separate numbers for each county were backfilled based on information from Martha's Vineyard and Nantucket hospital patient reports.  However, it appears that the state figures lag behind the local figures, as the combined reported cases are higher than the totals reported by the state.  Per-county numbers have been trimmed to match the state totals.
 
@@ -68,6 +68,21 @@ Nantucket hospital: http://nantuckethospital.org/home/coronavirus-news-and-infor
 
 Deaths affected:
 * 2020-04-06 (attributed to Dukes)
+
+##### Massachusetts Dashboard
+Massachusetts started providing a "dashboard" on 2020-04-20, which changed the way much of the data was reported.
+
+One new feature is reporting of state-wide daily cases, deaths, and testing numbers that are corrected moving forward as additional data comes in.  This is captured in the MA_state_daily.csv file.  Unfortunately, cases only go back to 2020-03-07, and testing only goes back to 2020-03-16.  However, since there were fewer than 10 cumulative cases on 2020-03-06 and fewer than 1000 cumulative tests on 2020-03-15, it's probably not a serious issue.  
+
+One additional note on state-wide daily death numbers is that they differ significantly from the daily numbers calculated based on cumulative totals reported for each day.  This is because the daily deaths reflect the actual date of death rather than when the death was reported - there is a several day lag in reporting.
+
+The deashboard also switched from reporting per-county daily deaths to per-county cumulative deaths.  As a result, some calculated cumulative numbers fluctutated as past deaths were reassigned to the correct counties.  (For example, Berkshire county apparently "lost" one death on 2020-04-20.)
+
+##### Quest Reporting Error
+Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
+
+Unfortunately, they did not similarly provide updates for county numbers, so all county case numbers from 2020-04-13 to 2020-04-23 are potentially lower than the actual numbers.
+
 
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
@@ -86,4 +101,4 @@ Live data entered as of 2020-03-19, backfilled using prior notices and WaybackMa
 https://www.watertown-ma.gov/965/CORONAVIRUS  
 Live data entered as of 2020-03-15, backfilled using past updates on page and WaybackMachine archive snapshots.  
 
-Daily case number updates started on 2020-03-23.
+Daily case number updates started sporadically on 2020-03-23.
