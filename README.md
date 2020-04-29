@@ -26,6 +26,8 @@ Live data entered as of 2020-03-15, backfilled using press releases and WaybackM
 
 Because Los Angeles switched on 2020-04-24 from reporting numbers as of 12 PM that day to reporting numbers as of 8 PM the previous day, cases and deaths were adjusted accordingly.  Tracing back through archived snapshots, it appears that the switch happened on 2020-03-11, so cumulative numbers from that day have been removed (27 cases, 1 death) and all other numbers have been moved back 1 day.
 
+Beginning 2020-04-28, Los Angeles County now provides a dashboard listing past numbers for cases and testing.  Note that unlike the case numbers currently recorded, these numbers do NOT include Long Beach and Pasadena, which have their own public health departments.  Past testing numbers updated to match values available from the dashboard, which include only electronically-reported testing.
+
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
 Live data entered as of 2020-03-15, backfilled using JHU to 2020-03-06 and WaybackMachine archive snapshots from 2020-03-06 to 2020-03-14.  Note that until 2020-03-15, values were only updatd Mon/Wed/Fri.
