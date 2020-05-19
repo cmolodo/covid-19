@@ -78,7 +78,12 @@ One new feature is reporting of state-wide daily cases, deaths, and testing numb
 
 One additional note on state-wide daily death numbers is that they differ significantly from the daily numbers calculated based on cumulative totals reported for each day.  This is because the daily deaths reflect the actual date of death rather than when the death was reported - there is a several day lag in reporting.
 
-The deashboard also switched from reporting per-county daily deaths to per-county cumulative deaths.  As a result, some calculated cumulative numbers fluctutated as past deaths were reassigned to the correct counties.  (For example, Berkshire county apparently "lost" one death on 2020-04-20.)
+The dashboard also switched from reporting per-county daily deaths to per-county cumulative deaths.  As a result, some calculated cumulative numbers fluctutated as past deaths were reassigned to the correct counties.  (For example, Berkshire county apparently "lost" one death on 2020-04-20.)
+
+On 2020-05-18, daily case and test numbers were changed from date reported to date tested, to more accurately reflect the number of people tested and the percent positive for each day.  
+
+From the public health website:  
+> Today, the Department will start releasing daily data charts that will sort the number of new COVID-19 cases and the number of new COVID-19 tests by the date of test, instead of by the date these metrics were reported to the Department.  DPH believes it is more precise and useful to present this data by how many people are getting tested each day and of those, how many tests are positive (making the person a case of COVID-19).
 
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
