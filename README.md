@@ -85,6 +85,13 @@ On 2020-05-18, daily case and test numbers were changed from date reported to da
 From the public health website:  
 > Today, the Department will start releasing daily data charts that will sort the number of new COVID-19 cases and the number of new COVID-19 tests by the date of test, instead of by the date these metrics were reported to the Department.  DPH believes it is more precise and useful to present this data by how many people are getting tested each day and of those, how many tests are positive (making the person a case of COVID-19).
 
+On 2020-06-01, per CDC guidance, department of public health added probable cases and deaths to confirmed totals, following a retrospective review dating back to 2020-03-01.
+
+From the public health website:
+> Today, the Department of Public Health will begin reporting both confirmed and probable COVID-19 cases and deaths. This change is in accordance with guidance from the Centers for Disease Control to include “probable” COVID-19 cases and deaths in data collection and reporting efforts.
+
+> This change will increase the number of cases and deaths reported in Massachusetts. Today’s newly reported totals are a result of a retrospective review of probable cases and deaths dating back to March 1, 2020.
+
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
 
