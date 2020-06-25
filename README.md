@@ -36,6 +36,12 @@ Orange County public health began publishing a full timeseries graph of case num
 
 Disclaimer on website: "Data posted each day are always preliminary and subject to change. More information may become available as individual case investigations are completed."
 
+As of 2020-06-24, Orange County significantly changed its display and the counts of testing and cases, removing the previously-available tables.  Unfortunately, the display only includes numbers back to 2020-04-26.  Numbers have been back-updated to that point, but may be incorrect before that.
+*  Removed the daily cases by date reported, replaced with daily cases by specimen collection date.  Daily cases by date reported will continue to be tracked based on the dashboard daily number, but will no longer be back-updated.
+*  Number of cumulative cases significantly modified (down).
+*  Cumulative test counts switched from date reported to specimen collection date, numbers significantly lower.
+
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
