@@ -41,6 +41,7 @@ As of 2020-06-24, Orange County significantly changed its display and the counts
 *  Number of cumulative cases significantly modified (down).
 *  Cumulative test counts switched from date reported to specimen collection date, numbers significantly lower.
 
+As of 2020-06-25, the old dashboard and figures are back...not sure what happened the previous day.
 
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
