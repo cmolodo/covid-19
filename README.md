@@ -43,6 +43,10 @@ As of 2020-06-24, Orange County significantly changed its display and the counts
 
 As of 2020-06-25, the old dashboard and figures are back...not sure what happened the previous day.
 
+As of 2020-06-26, the *new* reporting system is back again, with lower case and testing numbers!  Not sure what's going on, there's no provided info or explanation for the changing reporting on the website.
+
+With the new system, I will no longer be updating past numbers, to avoid further confusion, only adding the new daily and cumulative totals reported each day.  The exception is hospitalization - updated past numbers back to 2020-06-12, the earliest date displayed on the dashboard.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
