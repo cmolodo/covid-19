@@ -103,6 +103,8 @@ From the public health website:
 
 > This change will increase the number of cases and deaths reported in Massachusetts. Today’s newly reported totals are a result of a retrospective review of probable cases and deaths dating back to March 1, 2020.
 
+Total number of confirmed and probable deaths decreased as of 2020-06-30 due to removal of duplicate reports.
+
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
 
