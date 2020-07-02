@@ -13,6 +13,8 @@ https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx
 https://www.cdph.ca.gov/Programs/OPA/Pages/New-Release-2020.aspx  
 Live data entered as of 2020-04-01, backfilled using press releases.
 
+On 2020-06-30, an additional 3842 cases were received, so the past daily counts were updated to include these new cases.
+
 #### Contra Costa County
 https://www.coronavirus.cchealth.org/  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  
@@ -27,6 +29,8 @@ Live data entered as of 2020-03-15, backfilled using press releases and WaybackM
 Because Los Angeles switched on 2020-04-24 from reporting numbers as of 12 PM that day to reporting numbers as of 8 PM the previous day, cases and deaths were adjusted accordingly.  Tracing back through archived snapshots, it appears that the switch happened on 2020-03-11, so cumulative numbers from that day have been removed (27 cases, 1 death) and all other numbers have been moved back 1 day.
 
 Beginning 2020-04-28, Los Angeles County now provides a dashboard listing past numbers for cases and testing.  Note that unlike the case numbers currently recorded, these numbers do NOT include Long Beach and Pasadena, which have their own public health departments.  Past testing numbers updated to match values available from the dashboard, which include only electronically-reported testing.
+
+Add hospitalization numbers using data provided on the LA County dashboard as of 2020-06-30, backfilling with those numbers.  Note that these numbers do NOT include Long Beach or Pasadena, which maintain separate reporting.  Long Beach hospitalization numbers added and backfilled as of 2020-06-30.  Pasadena does not (as of 2020-07-01) report hospitalization numbers.
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
