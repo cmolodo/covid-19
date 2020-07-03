@@ -30,7 +30,9 @@ Because Los Angeles switched on 2020-04-24 from reporting numbers as of 12 PM th
 
 Beginning 2020-04-28, Los Angeles County now provides a dashboard listing past numbers for cases and testing.  Note that unlike the case numbers currently recorded, these numbers do NOT include Long Beach and Pasadena, which have their own public health departments.  Past testing numbers updated to match values available from the dashboard, which include only electronically-reported testing.
 
-Add hospitalization numbers using data provided on the LA County dashboard as of 2020-06-30, backfilling with those numbers.  Note that these numbers do NOT include Long Beach or Pasadena, which maintain separate reporting.  Long Beach hospitalization numbers added and backfilled as of 2020-06-30.  Pasadena does not (as of 2020-07-01) report hospitalization numbers.
+Added hospitalization numbers using data provided on the LA County dashboard as of 2020-06-30, backfilling with those numbers.  Note that these numbers do NOT include Long Beach or Pasadena, which maintain separate reporting.  Long Beach hospitalization numbers added and backfilled as of 2020-06-30.  Pasadena does not (as of 2020-07-01) report hospitalization numbers.
+
+Test number reporting changed as of 2020-07-01 - the LA Department of Public Health now reports persons tested separately from tests performed, since some people will be tested multiple times.  The numbers also changed significantly.
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
