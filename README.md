@@ -36,6 +36,8 @@ Test number reporting changed as of 2020-07-01 - the LA Department of Public Hea
 
 Data for LA County not reported from 2020-07-03 through 2020-07-06, as they took the system offline to improve the data processing systems.
 
+Hospitalization data not updated on LA public health dashboard after 2020-07-23.  Hospitalization numbers taken from California public health dashboard, which includes per-county hospitalization counts.
+
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
 Live data entered as of 2020-03-15, backfilled using JHU to 2020-03-06 and WaybackMachine archive snapshots from 2020-03-06 to 2020-03-14.  Note that until 2020-03-15, values were only updatd Mon/Wed/Fri.
