@@ -106,6 +106,8 @@ On 2020-05-18, daily case and test numbers were changed from date reported to da
 From the public health website:  
 > Today, the Department will start releasing daily data charts that will sort the number of new COVID-19 cases and the number of new COVID-19 tests by the date of test, instead of by the date these metrics were reported to the Department.  DPH believes it is more precise and useful to present this data by how many people are getting tested each day and of those, how many tests are positive (making the person a case of COVID-19).
 
+##### Probable Cases Added
+
 On 2020-06-01, per CDC guidance, department of public health added probable cases and deaths to confirmed totals, following a retrospective review dating back to 2020-03-01.
 
 From the public health website:
@@ -114,6 +116,16 @@ From the public health website:
 > This change will increase the number of cases and deaths reported in Massachusetts. Today’s newly reported totals are a result of a retrospective review of probable cases and deaths dating back to March 1, 2020.
 
 Total number of confirmed and probable deaths decreased as of 2020-06-30 due to removal of duplicate reports.
+
+##### Probable Cases and County Numbers Removed
+
+As of 2020-08-12, Massachusetts no longer provides daily probable cases or per-county case or death numbers.  These numbers have been moved to the weekly report or simply removed altogether.  Interestingly, the total deaths in the daily dashboard **DOES** still include probable deaths.
+
+Probable cases are now available only in the weekly report.
+
+Similarly, cumulative confirmed cases per county are now available only in the weekly report.  However, these numbers don't match reported values before 2020-08-12 because they only include confirmed cases, not probable cases, and there's no back-reporting of per-county splits between probable and confirmed cases, so there's no way to reconcile the numbers.
+
+Cumulative deaths per county are no longer available anywhere.  The weekly report only includes deaths per county for the last 2 weeks.
 
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
