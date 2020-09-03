@@ -127,6 +127,19 @@ Similarly, cumulative confirmed cases per county are now available only in the w
 
 Cumulative deaths per county are no longer available anywhere.  The weekly report only includes deaths per county for the last 2 weeks.
 
+##### County Numbers Added
+
+As of 2020-08-19, county cases and deaths have been added, both daily and cumulative counts.  However, the case numbers reflect only confirmed cases rather than including both probable and confirmed cases, so they're not comparable to the numbers from the last two months, and have not been added to the existing spreadsheet.  Deaths continue to include both probable and confirmed cases.
+
+##### Probable Case Definition Changed
+
+As of 2020-09-02, the definition of "probable" cases has changed to match the definition released 2020-08-06 by the Council of State and Territorial Epidemiologists.  It now includes only individuals with one of the following:
+*  Positive antigen test
+*  Covid-19 listed as underlying or contributing cause of death
+*  Appropriate symptoms and likely exposure
+
+Past reporting of probable cases has been updated to match this new definition, and satte-wide probable cases have been added back to the daily dashboard.  Per-county probably cases still not available.
+
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
 
