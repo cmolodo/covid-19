@@ -109,6 +109,8 @@ On 2020-05-18, daily case and test numbers were changed from date reported to da
 From the public health website:  
 > Today, the Department will start releasing daily data charts that will sort the number of new COVID-19 cases and the number of new COVID-19 tests by the date of test, instead of by the date these metrics were reported to the Department.  DPH believes it is more precise and useful to present this data by how many people are getting tested each day and of those, how many tests are positive (making the person a case of COVID-19).
 
+No data was provided for 2020-08-23, due to a server/system upgrade over the weekend.  Numbers are linearly interpolated based on values 2020-08-22 and 2020-08-24 and adjusted to match state total, since the reported daily numbers for 2020-08-24 simply reflect the difference between 2020-08-24 and 2020-08-22 rather than true daily values.
+
 ##### Probable Cases Added
 
 On 2020-06-01, per CDC guidance, department of public health added probable cases and deaths to confirmed totals, following a retrospective review dating back to 2020-03-01.
@@ -133,6 +135,10 @@ Cumulative deaths per county are no longer available anywhere.  The weekly repor
 ##### County Numbers Added
 
 As of 2020-08-19, county cases and deaths have been added, both daily and cumulative counts.  However, the case numbers reflect only confirmed cases rather than including both probable and confirmed cases, so they're not comparable to the numbers from the last two months, and have not been added to the existing spreadsheet.  Deaths continue to include both probable and confirmed cases.
+
+To avoid a gap and difficulty in calculating daily deaths, the per-county cumulative deaths have been calculated to interpolate along a straight line between 2020-08-11 (the last reported date) to 2020-08-19.
+
+County deaths also interpolated for 2020-08-23, when the public health department provided no data due to a server/system upgrade.
 
 ##### Probable Case Definition Changed
 
