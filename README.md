@@ -21,6 +21,9 @@ Live data entered as of 2020-03-19, backfilled using JHU data, press releases, a
 
 Case numbers corrected based on public health dashboard as of 2020-04-16, previously off by one day (daily numbers reported were actually from the previous day, mistakenly entered as being for the date reported).
 
+As of 2020-09-08, case and test numbers now listed by collection date rather than date reported to the department.  Similarly, deaths now listed by date of death rather than date reported to the department.  All numbers for the last 7 days are considered incomplete, as they are still being reported.  
+Updated past numbers to match newly available values, EXCEPT for total deaths.  Since only daily deaths are listed with past values, past total deaths aren't updated, and will continue to reflect total reported deaths moving forward.
+
 #### Los Angeles County  
 http://publichealth.lacounty.gov/media/Coronavirus/  
 Testing numbers: http://publichealth.lacounty.gov/acd/docs/COVID19SurveillanceDataLAC.pdf  
