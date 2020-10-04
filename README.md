@@ -69,11 +69,15 @@ Live data entered as of 2020-03-19, backfilled using JHU data, press releases, a
 
 Placer county case numbers backfilled on 2020-04-14 based on historical data now available from the Placer public health dashboard.
 
+As of 2020-10-02, data will only be reported Mon-Fri, new numbers will no longer be available for Sat/Sun.
+
 #### Solano County  
 http://www.solanocounty.com/depts/ph/ncov.asp  
 Live data entered as of 2020-03-19, backfilled using press releases and WaybackMachine archive snapshots.  (No JHU data available for this county.)
 
 Data for 2020-03-26 not available, PDF with data corrupted.
+
+Data only reported Mon-Fri, new numbers not available for Sat/Sun.
 
 ### Massachusetts
 
