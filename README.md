@@ -166,6 +166,10 @@ The number of total individuals tested is no longer reported on the dashboard, t
 
 Antibody testing numbers are no longer reported, either in the dashboard or the source files.
 
+##### Thanksgiving 2020
+
+Because of the Thanksgiving holiday, no dashboard was published for 2020-11-26.  Instead, the report provided 2020-11-27 contained the aggregate across both days.  To prevent a gap in the state and county numbers for Thanksgiving, values have been filled in by interpolating between 11-25 and 11-27.
+
 
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
