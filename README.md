@@ -24,6 +24,9 @@ Case numbers corrected based on public health dashboard as of 2020-04-16, previo
 As of 2020-09-08, case and test numbers now listed by collection date rather than date reported to the department.  Similarly, deaths now listed by date of death rather than date reported to the department.  All numbers for the last 7 days are considered incomplete, as they are still being reported.  
 Updated past numbers to match newly available values, EXCEPT for total deaths.  Since only daily deaths are listed with past values, past total deaths aren't updated, and will continue to reflect total reported deaths moving forward.
 
+Cumulative deaths not available for 2020-12-24, interpolated based on numbers for 2020-12-23 and 2020-12-25.
+
+
 #### Los Angeles County  
 http://publichealth.lacounty.gov/media/Coronavirus/  
 Testing numbers: http://publichealth.lacounty.gov/acd/docs/COVID19SurveillanceDataLAC.pdf  
@@ -40,6 +43,9 @@ Test number reporting changed as of 2020-07-01 - the LA Department of Public Hea
 Data for LA County not reported from 2020-07-03 through 2020-07-06, as they took the system offline to improve the data processing systems.
 
 Hospitalization data not updated on LA public health dashboard after 2020-07-23.  Hospitalization numbers taken from California public health dashboard, which includes per-county hospitalization counts.
+
+Data for 2020-12-24 not provided due to Christmas holiday.  Cumulative case and death numbers interpolated from 12-23 and 12-25 data, daily case and death numbers then calculated based on cumulative.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
@@ -166,9 +172,10 @@ The number of total individuals tested is no longer reported on the dashboard, t
 
 Antibody testing numbers are no longer reported, either in the dashboard or the source files.
 
-##### Thanksgiving 2020
+##### Holiday Reporting
+Due to the Thanksgiving holiday, no dashboard was published for 2020-11-26.  Instead, the report provided 2020-11-27 contained the aggregate across both days.  To prevent a gap in the state and county numbers for Thanksgiving, values have been filled in by interpolating between 11-25 and 11-27.
 
-Because of the Thanksgiving holiday, no dashboard was published for 2020-11-26.  Instead, the report provided 2020-11-27 contained the aggregate across both days.  To prevent a gap in the state and county numbers for Thanksgiving, values have been filled in by interpolating between 11-25 and 11-27.
+Due to the Christmas holiday, no dashboard was published for 2020-12-25.  Instead, the report provided 2020-12-26 containted the aggregate across both days.  Filled in values by interpolating between 12-24 and 12-26.
 
 
 #### Arlington, MA  
