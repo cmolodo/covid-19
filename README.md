@@ -69,6 +69,8 @@ With the new system, I will no longer be updating past numbers, to avoid further
 As of 2020-09-03, reported cumulative case numbers are separated into PCR only (reported to state) vs antigen positive.  Daily case numbers are now PCR only.  
 The timeseries data will now include the sum of PCR + antigen positive cases, though neither this nor the PCR-only cumulative number matches the past cumulative counts, so the case numbers don't exactly match between 2020-09-02 and 2020-09-03.
 
+On 2020-12-29, shifted OC testing numbers forward one day so that the date reflects the date reported, not the cumulative total as of date collected, since all the actual numbers are reported totals, not collection date totals - this way it also matches the date of reported cases and deaths.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
