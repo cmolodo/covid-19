@@ -71,6 +71,8 @@ The timeseries data will now include the sum of PCR + antigen positive cases, th
 
 On 2020-12-29, shifted OC testing numbers forward one day so that the date reflects the date reported, not the cumulative total as of date collected, since all the actual numbers are reported totals, not collection date totals - this way it also matches the date of reported cases and deaths.
 
+Values for 2021-01-01 not provided due to the holiday, calculated by interpolating between 2020-12-31 and 2021-01-02.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
@@ -177,7 +179,9 @@ Antibody testing numbers are no longer reported, either in the dashboard or the 
 ##### Holiday Reporting
 Due to the Thanksgiving holiday, no dashboard was published for 2020-11-26.  Instead, the report provided 2020-11-27 contained the aggregate across both days.  To prevent a gap in the state and county numbers for Thanksgiving, values have been filled in by interpolating between 11-25 and 11-27.
 
-Due to the Christmas holiday, no dashboard was published for 2020-12-25.  Instead, the report provided 2020-12-26 containted the aggregate across both days.  Filled in values by interpolating between 12-24 and 12-26.
+Due to the Christmas holiday, no dashboard was published for 2020-12-25.  Instead, the report provided 2020-12-26 contained the aggregate across both days.  Filled in values by interpolating between 12-24 and 12-26.
+
+Similarly, due to the New Years holiday, no dashboard was published for 2021-01-01.  Instead, the report provided 2021-01-02 contained the aggregate across both days.  Filled in values by interpolating between 2020-12-31 and 2021-01-02.
 
 
 #### Arlington, MA  
