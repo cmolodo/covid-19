@@ -73,6 +73,8 @@ On 2020-12-29, shifted OC testing numbers forward one day so that the date refle
 
 Values for 2021-01-01 not provided due to the holiday, calculated by interpolating between 2020-12-31 and 2021-01-02.
 
+Values for 2021-01-03 not provided due to server upgrades, calculated by interpolating between 2021-01-02 and 2021-01-04.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
