@@ -75,6 +75,8 @@ Values for 2021-01-01 not provided due to the holiday, calculated by interpolati
 
 Values for 2021-01-03 not provided due to server upgrades, calculated by interpolating between 2021-01-02 and 2021-01-04.
 
+Values for 2021-01-18 not provided due to the holiday, calculated by interpolated between 2021-01-17 and 2021-01-19.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
@@ -130,7 +132,7 @@ From the public health website:
 
 No data was provided for 2020-08-23, due to a server/system upgrade over the weekend.  Numbers are linearly interpolated based on values 2020-08-22 and 2020-08-24 and adjusted to match state total, since the reported daily numbers for 2020-08-24 simply reflect the difference between 2020-08-24 and 2020-08-22 rather than true daily values.
 
-No new county data was provided for 2021-01-11.  Numbers reported were identical to the previous day.
+No new daily county data was provided for 2021-01-11 in the dashboard source - all numbers reported were identical to the previous day.  However, the interactive dashboard provided new confirmed cases and deaths per county, so the county cases and deaths were manually filled in.
 
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
