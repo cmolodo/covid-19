@@ -132,7 +132,8 @@ From the public health website:
 
 No data was provided for 2020-08-23, due to a server/system upgrade over the weekend.  Numbers are linearly interpolated based on values 2020-08-22 and 2020-08-24 and adjusted to match state total, since the reported daily numbers for 2020-08-24 simply reflect the difference between 2020-08-24 and 2020-08-22 rather than true daily values.
 
-No new daily county data was provided for 2021-01-11 in the dashboard source - all numbers reported were identical to the previous day.  However, the interactive dashboard provided new confirmed cases and deaths per county, so the county cases and deaths were manually filled in.
+Due to a technical issue, 24800 lab results (positive and negative) were delayed and could not be included in the 2021-01-29 report, but are included in the 2021-01-30 report.  The numbers for 2021-01-29 are therefore artifically lower than reality, and the numbers for 2021-01-30 are artifically higher.
+
 
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
