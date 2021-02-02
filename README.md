@@ -208,3 +208,17 @@ https://www.watertown-ma.gov/965/CORONAVIRUS
 Live data entered as of 2020-03-15, backfilled using past updates on page and WaybackMachine archive snapshots.  
 
 Daily case number updates started sporadically on 2020-03-23.
+
+## Vaccination
+
+### California
+https://covid19.ca.gov/vaccines/
+
+From the CA website:  
+Once a week, the federal government announces anticipated allocation figures for each state. The number of allocated doses provided by the federal government is a projection and subject to change. Local providers are required to place their orders which are reviewed by the state and submitted to the federal government. The federal government then authorizes the order and submits the request to the manufacturer. The manufacturer or central distributor ships the vaccine directly to local providers. It can take a week or longer for allocation by the federal government to arrive at public health offices or providers for administration.
+
+*  Doses ordered = doses requested by the state, in an order submitted to the federal Warp Speed vaccine management program  
+*  Doses shipped = doses marked by the federal program as having been ordered from the manufacturers, to be shipped directly to the states  
+*  Doses delivered = doses received by the state facilities
+
+Prior to 2021-02-01, doses ordered and shipped did NOT include doses distributed as part of the CDC Long Term Care (LTC) program.  However, starting 2021-02-01, doses shipped and delivered DO include doses from the LTC program.  Also, starting 2021-02-01, doses ordered was no longer reported, replaced with doses delivered.
