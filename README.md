@@ -77,6 +77,8 @@ Values for 2021-01-03 not provided due to server upgrades, calculated by interpo
 
 Values for 2021-01-18 not provided due to the holiday, calculated by interpolated between 2021-01-17 and 2021-01-19.
 
+Values for 2021-02-12 not provided due to the holiday (?not sure why, President's Day is 02-15).
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
