@@ -46,6 +46,8 @@ Hospitalization data not updated on LA public health dashboard after 2020-07-23.
 
 Data for 2020-12-24 not provided due to Christmas holiday.  Cumulative case and death numbers interpolated from 12-23 and 12-25 data, daily case and death numbers then calculated based on cumulative.
 
+Detailed daily cases and test data not available for 2021-02-17 - despite the dashboard stating the data is through 2021-02-17, it only included up to 2021-02-16.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
