@@ -215,6 +215,11 @@ Daily case number updates started sporadically on 2020-03-23.
 
 ## Vaccination
 
+### CDC
+https://covid.cdc.gov/covid-data-tracker/#vaccinations
+
+As of 2021-02-22, the CDC stopped reporting distributed doses.  They instead started reporting "delivered" doses, but no longer provided this information per jurisidiction, only for the entire country.
+
 ### California
 https://covid19.ca.gov/vaccines/
 
