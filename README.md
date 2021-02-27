@@ -48,6 +48,8 @@ Data for 2020-12-24 not provided due to Christmas holiday.  Cumulative case and 
 
 Detailed daily cases and test data not available for 2021-02-17 - despite the dashboard stating the data is through 2021-02-17, it only included up to 2021-02-16.
 
+Due to reporting issues, a backlog of ~900 previously unreported deaths was added to the total on 2021-02-23.  These deaths actually occurred in the previous months.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
@@ -79,7 +81,11 @@ Values for 2021-01-03 not provided due to server upgrades, calculated by interpo
 
 Values for 2021-01-18 not provided due to the holiday, calculated by interpolated between 2021-01-17 and 2021-01-19.
 
-Values for 2021-02-12 not provided due to the holiday (?not sure why, President's Day is 02-15).
+Values for 2021-02-12 not provided on the dashboard due to the holiday (?not sure why, President's Day is 02-15), though separate numbers for daily cases, deaths, and tests on 02-12 and 02-13 were both reported on the main web page 02-13.  Antigen cases not available, since that's only reported on the dashboard.
+
+Similar to 2021-02-12, values for 2021-02-15 not provided on the dashboard due to President's Day, but daily case, death, and testing numbers provided later.
+
+Death reporting lower than actual values starting on 2021-02-23 due to technical issues.
 
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
@@ -219,6 +225,8 @@ Daily case number updates started sporadically on 2020-03-23.
 https://covid.cdc.gov/covid-data-tracker/#vaccinations
 
 As of 2021-02-22, the CDC stopped reporting distributed doses.  They instead started reporting "delivered" doses, but no longer provided this information per jurisidiction, only for the entire country.
+
+As of 2021-02-26, the CDC began reporting distributed doses per state again.
 
 ### California
 https://covid19.ca.gov/vaccines/
