@@ -87,6 +87,8 @@ Similar to 2021-02-12, values for 2021-02-15 not provided on the dashboard due t
 
 Death reporting lower than actual values starting on 2021-02-23 due to technical issues.
 
+Missed values for 2021-02-28, able to calculate previous numbers based on daily values for 2021-03-01, but couldn't calculate cumulative antigen cases as no daily number provided.  Calculated total antigen cases by interpolating between 2021-02-27 and 2021-03-01.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
@@ -143,6 +145,8 @@ From the public health website:
 No data was provided for 2020-08-23, due to a server/system upgrade over the weekend.  Numbers are linearly interpolated based on values 2020-08-22 and 2020-08-24 and adjusted to match state total, since the reported daily numbers for 2020-08-24 simply reflect the difference between 2020-08-24 and 2020-08-22 rather than true daily values.
 
 Due to a technical issue, 24800 lab results (positive and negative) were delayed and could not be included in the 2021-01-29 report, but are included in the 2021-01-30 report.  The numbers for 2021-01-29 are therefore artifically lower than reality, and the numbers for 2021-01-30 are artifically higher.
+
+Due to a reporting issue, on 2021-03-02 863 cases previously counted positive have been corrected to be negative and removed from the total confirmed cases.
 
 
 ##### Quest Reporting Error
