@@ -50,6 +50,8 @@ Detailed daily cases and test data not available for 2021-02-17 - despite the da
 
 Due to reporting issues, a backlog of ~900 previously unreported deaths was added to the total on 2021-02-23.  These deaths actually occurred in the previous months.
 
+The data dashboard for 2021-03-05 didn't include updated numbers for persons tested or tests by date, values not added.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
