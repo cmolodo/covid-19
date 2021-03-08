@@ -52,6 +52,8 @@ Due to reporting issues, a backlog of ~900 previously unreported deaths was adde
 
 The data dashboard for 2021-03-05 didn't include updated numbers for persons tested or tests by date, values not added.
 
+The data dashboard for 2021-03-06 numbers for persons tested is from 2021-03-05, not 2021-03-06.  Added numbers for previous day since they weren't available before, but persons tested remains 1 day behind.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
