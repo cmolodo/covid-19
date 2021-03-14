@@ -26,6 +26,8 @@ Updated past numbers to match newly available values, EXCEPT for total deaths.  
 
 Cumulative deaths not available for 2020-12-24, interpolated based on numbers for 2020-12-23 and 2020-12-25.
 
+Date not available for 2021-03-12.
+
 
 #### Los Angeles County  
 http://publichealth.lacounty.gov/media/Coronavirus/  
