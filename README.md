@@ -26,7 +26,7 @@ Updated past numbers to match newly available values, EXCEPT for total deaths.  
 
 Cumulative deaths not available for 2020-12-24, interpolated based on numbers for 2020-12-23 and 2020-12-25.
 
-Date not available for 2021-03-12.
+Date not available for 2021-03-12.  Total deaths for that date filled in by extrapolating.  All other numbers are reported with all history every day, so were filled in the following day.
 
 
 #### Los Angeles County  
