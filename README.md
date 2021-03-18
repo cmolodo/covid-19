@@ -91,7 +91,7 @@ Values for 2021-02-12 not provided on the dashboard due to the holiday (?not sur
 
 Similar to 2021-02-12, values for 2021-02-15 not provided on the dashboard due to President's Day, but daily case, death, and testing numbers provided later.
 
-Death reporting lower than actual values starting on 2021-02-23 due to technical issues.
+Death reporting lower than actual values starting on 2021-02-23 due to technical issues.  Noted as resolved on 2021-03-17.
 
 Missed values for 2021-02-28, able to calculate previous numbers based on daily values for 2021-03-01, but couldn't calculate cumulative antigen cases as no daily number provided.  Calculated total antigen cases by interpolating between 2021-02-27 and 2021-03-01.
 
