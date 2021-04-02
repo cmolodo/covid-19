@@ -56,6 +56,12 @@ The data dashboard for 2021-03-05 didn't include updated numbers for persons tes
 
 The data dashboard for 2021-03-06 numbers for persons tested is from 2021-03-05, not 2021-03-06.  Added numbers for previous day since they weren't available before, but persons tested remains 1 day behind.
 
+The data dashboard appears to have technical issues starting 2021-03-31, couldn't connect to the server so couldn't retrieve data for test numbers beginning 2021-03-30.
+
+##### Long Beach
+
+Daily data collection for Long Beach paused after 2021-03-15 due to technical difficulties with the dashboard - updated daily values not available.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
