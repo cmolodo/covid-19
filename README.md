@@ -56,7 +56,7 @@ The data dashboard for 2021-03-05 didn't include updated numbers for persons tes
 
 The data dashboard for 2021-03-06 numbers for persons tested is from 2021-03-05, not 2021-03-06.  Added numbers for previous day since they weren't available before, but persons tested remains 1 day behind.
 
-The data dashboard appears to have technical issues starting 2021-03-31, couldn't connect to the server so couldn't retrieve data for test numbers beginning 2021-03-30.
+The data dashboard appears to have technical issues starting 2021-03-31, couldn't connect to the server so couldn't retrieve data for test numbers beginning 2021-03-30.  Issue finally resolved by 2021-04-04, data available for 2021-04-03.
 
 ##### Long Beach
 
@@ -100,6 +100,8 @@ Similar to 2021-02-12, values for 2021-02-15 not provided on the dashboard due t
 Death reporting lower than actual values starting on 2021-02-23 due to technical issues.  Noted as resolved on 2021-03-17.
 
 Missed values for 2021-02-28, able to calculate previous numbers based on daily values for 2021-03-01, but couldn't calculate cumulative antigen cases as no daily number provided.  Calculated total antigen cases by interpolating between 2021-02-27 and 2021-03-01.
+
+Values for 2021-04-04 not provided due to the holiday.
 
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
@@ -215,6 +217,7 @@ Due to the Christmas holiday, no dashboard was published for 2020-12-25.  Instea
 
 Similarly, due to the New Years holiday, no dashboard was published for 2021-01-01.  Instead, the report provided 2021-01-02 contained the aggregate across both days.  Filled in values by interpolating between 2020-12-31 and 2021-01-02.
 
+Due to the Easter holiday, no dashboard data was available for 2021-04-04.
 
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
