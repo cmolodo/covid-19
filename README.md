@@ -58,6 +58,8 @@ The data dashboard for 2021-03-06 numbers for persons tested is from 2021-03-05,
 
 The data dashboard appears to have technical issues starting 2021-03-31, couldn't connect to the server so couldn't retrieve data for test numbers beginning 2021-03-30.  Issue finally resolved by 2021-04-04, data available for 2021-04-03.
 
+The Locations & Demographics page used as source for reported daily/total cases and deaths appears to have an issue on 2021-04-20 - although it claims that the data was updated, the numbers are all identical to the values from 2021-04-19.
+
 ##### Long Beach
 
 Daily data collection for Long Beach paused after 2021-03-15 due to technical difficulties with the dashboard - updated daily values not available.
