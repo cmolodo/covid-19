@@ -28,6 +28,8 @@ Cumulative deaths not available for 2020-12-24, interpolated based on numbers fo
 
 Date not available for 2021-03-12.  Total deaths for that date filled in by extrapolating.  All other numbers are reported with all history every day, so were filled in the following day.
 
+Coronavirus page down 2021-05-30, no data available for 2021-05-29.
+
 
 #### Los Angeles County  
 http://publichealth.lacounty.gov/media/Coronavirus/  
