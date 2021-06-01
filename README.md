@@ -70,6 +70,8 @@ Daily data collection for Long Beach paused after 2021-03-15 due to technical di
 
 Dashboard not updated for 2021-05-07, total deaths and daily data not available.
 
+Values for 2021-05-31 not provided due to the holiday.
+
 
 #### Orange County  
 https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus  
@@ -111,6 +113,8 @@ Missed values for 2021-02-28, able to calculate previous numbers based on daily 
 
 Values for 2021-04-04 not provided due to the holiday.
 
+Values for 2021-05-31 not provided due to the holiday.
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
@@ -119,6 +123,8 @@ Placer county case numbers backfilled on 2020-04-14 based on historical data now
 
 As of 2020-10-02, data will only be reported Mon-Fri, new numbers will no longer be available for Sat/Sun.
 
+Values for 2021-05-31 not provided due to the holiday.
+
 #### Solano County  
 http://www.solanocounty.com/depts/ph/ncov.asp  
 Live data entered as of 2020-03-19, backfilled using press releases and WaybackMachine archive snapshots.  (No JHU data available for this county.)
@@ -126,6 +132,8 @@ Live data entered as of 2020-03-19, backfilled using press releases and WaybackM
 Data for 2020-03-26 not available, PDF with data corrupted.
 
 Data only reported Mon-Fri, new numbers not available for Sat/Sun.
+
+Values for 2021-05-31 not provided due to the holiday.
 
 ### Massachusetts
 
@@ -227,6 +235,8 @@ Similarly, due to the New Years holiday, no dashboard was published for 2021-01-
 
 Due to the Easter holiday, no dashboard data was available for 2021-04-04.
 
+No data reported for 2021-05-31 due to the holiday.
+
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
 Past updates: https://www.arlingtonma.gov/departments/health-human-services/health-department/past-coronavirus-updates  
@@ -254,6 +264,9 @@ https://covid.cdc.gov/covid-data-tracker/#vaccinations
 As of 2021-02-22, the CDC stopped reporting distributed doses.  They instead started reporting "delivered" doses, but no longer provided this information per jurisidiction, only for the entire country.
 
 As of 2021-02-26, the CDC began reporting distributed doses per state again.
+
+No data provided for the Memorial Day holiday 2021-05-31.
+
 
 ### California
 https://covid19.ca.gov/vaccines/
