@@ -265,7 +265,7 @@ As of 2021-02-22, the CDC stopped reporting distributed doses.  They instead sta
 
 As of 2021-02-26, the CDC began reporting distributed doses per state again.
 
-No data provided for the Memorial Day holiday 2021-05-31.
+No data provided for the Memorial Day holiday 2021-05-31, interpolated to generate values.
 
 
 ### California
