@@ -115,6 +115,9 @@ Values for 2021-04-04 not provided due to the holiday.
 
 Values for 2021-05-31 not provided due to the holiday.
 
+Starting 2021-06-11, values only provided on the dashboard on weekdays.
+
+
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
 Live data entered as of 2020-03-19, backfilled using JHU data, press releases, and WaybackMachine archive snapshots.  Note that new data is only guaranteed to be released Mon/Wed/Fri.  
