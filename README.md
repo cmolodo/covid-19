@@ -117,6 +117,8 @@ Values for 2021-05-31 not provided due to the holiday.
 
 Starting 2021-06-11, values only provided on the dashboard on weekdays.
 
+Switched spreadsheet to use reported cases/deaths/tests from CA dashboard instead of OC dashboard.  However, because CA dashboard reported test numbers only go back to 2020-05-05, filled in previous values based on OC reported daily tests from 2020-03-04 to 202-05-04.  Test numbers and percent positives on the spreadsheet prior to 2021-05-05 are therefore only an approximation.
+
 
 #### Placer County  
 https://www.placer.ca.gov/6448/Cases-in-Placer  
