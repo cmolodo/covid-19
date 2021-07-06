@@ -117,7 +117,7 @@ Values for 2021-05-31 not provided due to the holiday.
 
 Starting 2021-06-11, values only provided on the dashboard on weekdays.
 
-Switched spreadsheet to use reported cases/deaths/tests from CA dashboard instead of OC dashboard.  However, because CA dashboard reported test numbers only go back to 2020-05-05, filled in previous values based on OC reported daily tests from 2020-03-04 to 202-05-04.  Test numbers and percent positives on the spreadsheet prior to 2021-05-05 are therefore only an approximation.
+Switched spreadsheet to use reported cases/deaths from CA dashboard instead of OC dashboard.  However, because CA dashboard reported test numbers are clearly missing a large number of reported tests, the spreadsheet will switch to calculating percent positivity from CA cases/tests based on date of test rather than date reported.  (When all the "daily" reported tests are subtracted from the current reported total, it leaves over 300k tests on 2020-05-04, which is clearly incorrect.)
 
 
 #### Placer County  
@@ -130,6 +130,8 @@ As of 2020-10-02, data will only be reported Mon-Fri, new numbers will no longer
 
 Values for 2021-05-31 not provided due to the holiday.
 
+After 2021-07-02, data only reported weekly rather than every weekday.  Data collection stopped for this county.
+
 #### Solano County  
 http://www.solanocounty.com/depts/ph/ncov.asp  
 Live data entered as of 2020-03-19, backfilled using press releases and WaybackMachine archive snapshots.  (No JHU data available for this county.)
@@ -139,6 +141,9 @@ Data for 2020-03-26 not available, PDF with data corrupted.
 Data only reported Mon-Fri, new numbers not available for Sat/Sun.
 
 Values for 2021-05-31 not provided due to the holiday.
+
+After 2021-06-18, data only reported every M/W/F instead of every weekday.  Data collection stopped for this county after 2021-07-02.
+
 
 ### Massachusetts
 
