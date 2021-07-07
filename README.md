@@ -188,6 +188,8 @@ Due to a technical issue, 24800 lab results (positive and negative) were delayed
 
 Due to a reporting issue, on 2021-03-02 863 cases previously counted positive have been corrected to be negative and removed from the total confirmed cases.
 
+After 2021-07-02, dashboard data will only be updated M-F.  Weekend values will be interpolated for cases and testing, deaths not interpolated because there are so few.
+
 
 ##### Quest Reporting Error
 Due to a reporting error by Quest, a large backlog of test results were suddenly received around 2020-04-24.  Massachusettts backfilled daily state case and test numbers on 2020-04-24 with these previously missing reports based on when the results should have been reported, which affected case and test numbers dating back to 2020-04-13.  Note that the previously-entered cumulative case and testing numbers will now be incorrect.  Testing and state-wide case calculations should switch to use of the daily test numbers, which are updated with each published dashboard report.
@@ -247,6 +249,9 @@ Due to the Easter holiday, no dashboard data was available for 2021-04-04.
 
 No data reported for 2021-05-31 due to the holiday.
 
+No data reported on 2021-07-05 due to observance of Independence Day.  Interpolated from 2021-07-02 to 2021-07-06 to fill in weekend plus holiday.
+
+
 #### Arlington, MA  
 https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information  
 Past updates: https://www.arlingtonma.gov/departments/health-human-services/health-department/past-coronavirus-updates  
@@ -276,6 +281,8 @@ As of 2021-02-22, the CDC stopped reporting distributed doses.  They instead sta
 As of 2021-02-26, the CDC began reporting distributed doses per state again.
 
 No data provided for the Memorial Day holiday 2021-05-31, interpolated to generate values.
+
+No data provided for 2021-07-05 in observance of Independency Day, interpolated to generate values.
 
 
 ### California
