@@ -66,6 +66,8 @@ Data dashboard not updated with 2021-05-07 numbers.
 
 Missed data for 2021-07-09, interpolated 2021-07-08 and 2021-07-10 for cases/deaths.
 
+Pages not updated on 2021-07-15, no data available for 2021-07-14.
+
 ##### Long Beach
 
 Daily data collection for Long Beach paused after 2021-03-15 due to technical difficulties with the dashboard - updated daily values not available.
